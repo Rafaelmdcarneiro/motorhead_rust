@@ -1,18 +1,6 @@
 <h1 align="center" >
-🧠 Motorhead (DEPRECATED)
+🧠 Motorhead
 </h1>
-<h2>Support is no longer maintained for this project.</h2>
-<p align="center">
-    <a href="https://github.com/getmetal/motorhead/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/getmetal/motorhead?style=flat&label=license&logo=github&color=4f46e5&logoColor=fff" alt="License" />
-    </a>
-  <a href="https://twitter.com/Metal_io">
-    <img src="https://img.shields.io/badge/metal-message?style=flat&logo=twitter&color=4f46e5&logoColor=#4f46e5" alt="Metal" style="margin-right:3px" />
-  </a>
-  <a href="https://discord.gg/GHY3Y8tU3J">
-    <img src="https://dcbadge.vercel.app/api/server/GHY3Y8tU3J?compact=true&style=flat" alt="License" />
-  </a>
-</p>
 
 Motorhead is a memory and information retrieval server for LLMs.
 
